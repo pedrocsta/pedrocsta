@@ -2,23 +2,23 @@
 
 
 
-**Olá, eu sou Pedro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">**
+**Hi, I'm Pedro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">**
 
 ***
 
 **About me:**
 
-- 💻 Eu sou um desenvolvedor back-end júnior
+- 💻 I'm a junior backend developer
 - 👨🏽‍💻 Python | Django | PostgreSQL
-- 📝 Sou técnico em informática
-- 📫 Como chegar até mim: [LinkedIn](https://www.linkedin.com/in/pedro-csta/), [Instagram](https://www.instagram.com/_pedrocsta/) ou [Twitter](https://twitter.com/_pedrocsta)
+- 📝 I'm a computer technician
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedro-csta/), [Instagram](https://www.instagram.com/_pedrocsta/) ou [Twitter](https://twitter.com/_pedrocsta)
 
 
 
-**Linguagens e ferramentas:**
+**Languages and tools:**
 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the&logo=django&logoColor=FFF)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 
 
-**🚀 vamos balançar o futuro!**
+**🚀 let's rock the future!**
