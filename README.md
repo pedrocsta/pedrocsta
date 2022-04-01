@@ -11,7 +11,7 @@
 - 💻 I'm a junior backend developer
 - 👨🏽‍💻 Python | Django | PostgreSQL
 - 📝 I'm a computer technician
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedro-csta/), [Instagram](https://www.instagram.com/_pedrocsta/) ou [Twitter](https://twitter.com/_pedrocsta)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedro-csta/), [Instagram](https://www.instagram.com/_pedrocsta/) or [Twitter](https://twitter.com/_pedrocsta)
 
 
 
