@@ -2,7 +2,7 @@
 
 
 
-**Hi, I'm Pedro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">**
+**Hi, I'm Pedro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">**
 
 ***
 
