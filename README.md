@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador." min-width="350px" max-width="350px" width="350px" align="right">
 
-<p align="left"> 
+<p align="justify"> 
     Olá, tudo bem? Me chamo Pedro Costa, tenho 22 anos, sou técnico em informática formado pelo Instituto Federal do Rio Grande do Norte, campus Mossoró, e atualmente atuo nas áreas de back-end e análise de dados. Sou também um grande entusiasta de tecnologia, sempre buscando aprender mais e acompanhar as inovações na área.
 </p>
 
 <p align="left">
-    🧑‍💻 **Linguagens:** HTML, CSS, JavaScript, Python, SQL.
+    🧑‍💻 <b>Linguagens:</b> HTML, CSS, JavaScript, Python, SQL.
 </p>
 
 <p align="left">
-    💼 **Ferramentas:** VS Code, GitHub, Git, Scrum, Django.
+    💼 <b>Ferramentas:</b> VS Code, GitHub, Git, Scrum, Django.
 </p>
 
 <p align="left">
